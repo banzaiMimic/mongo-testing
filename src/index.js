@@ -9,7 +9,6 @@ app.set('views', path.join(__dirname, './views'))
 
 app.use(express.urlencoded({ extended: false }))
 
-// Connect to MongoDB
 mongoose
   .connect(
     'mongodb://mongo:27017/docker-node-mongo',
