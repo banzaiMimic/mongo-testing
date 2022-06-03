@@ -1,7 +1,8 @@
 # mongo-testing
-quick demo for testable mongoose queries using jest
-
+- demo for testable mongoose queries using jest
 might add more here but for now can look at [this test file](./src/_tests/queryDemo.test.js)
+- demo for running and connecting to mongo from node using docker / docker-compose [here](./docker-compose.yml)
+- demo for creating mock files from json into mongo ["create-mocks" script here](./package.json) 
 
 ## pre-requisites node
 - node [tested on 16.14.0]
