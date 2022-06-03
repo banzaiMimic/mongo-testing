@@ -1,7 +1,7 @@
 # mongo-testing
 quick demo for testable mongoose queries using jest
 
-might add more here but for now can look at [this test file](./src/_tests_queryDemo.test.js)
+might add more here but for now can look at [this test file](./src/_tests/queryDemo.test.js)
 
 ## pre-requisites node
 - node [tested on 16.14.0]
